@@ -2,13 +2,12 @@
 
 # 🌤️ Weather App  
 ### A simple and stylish weather viewer ☁️
-</div>
+
 ![Build Status](https://img.shields.io/badge/Build-passing-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![OpenWeather](https://img.shields.io/badge/API-OpenWeatherMap-orange)
 ![Status](https://img.shields.io/badge/Status-Learning_Project-lightgrey)
----
-
+</div>
 ## 🚀 About the Project
 **Weather App** is a lightweight web application that displays the current weather for any city.  
 The user enters a city name, and the app shows temperature, weather description, and other useful details.
