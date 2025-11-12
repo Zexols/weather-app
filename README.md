@@ -3,7 +3,10 @@
 # 🌤️ Weather App  
 ### A simple and stylish weather viewer ☁️
 </div>
-
+![Build Status](https://img.shields.io/badge/Build-passing-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![OpenWeather](https://img.shields.io/badge/API-OpenWeatherMap-orange)
+![Status](https://img.shields.io/badge/Status-Learning_Project-lightgrey)
 ---
 
 ## 🚀 About the Project
@@ -22,10 +25,14 @@ The user enters a city name, and the app shows temperature, weather description,
 ---
 
 ## 🧠 Built With
-| Technology | Purpose |
-|-------------|----------|
-| **HTML5** | Structure and markup |
-| **CSS3** | Styling and animations |
-| **JavaScript (Fetch API)** | Handling API requests |
-| **OpenWeatherMap API** | Weather data source |
+<div align="center">
+
+| Technology | Description |
+|-------------|-------------|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | Structure and markup |
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> | Styling and animations |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> | Fetch API and logic |
+| <img src="https://img.shields.io/badge/OpenWeatherMap-FF9E0F?style=for-the-badge&logo=openweathermap&logoColor=white"/> | Weather data source |
+
+</div>
 
