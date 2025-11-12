@@ -8,7 +8,7 @@
 ![OpenWeather](https://img.shields.io/badge/API-OpenWeatherMap-orange)
 ![Status](https://img.shields.io/badge/Status-Learning_Project-lightgrey)
 </div>
-___
+---
 ## 🚀 About the Project
 **Weather App** is a lightweight web application that displays the current weather for any city.  
 The user enters a city name, and the app shows temperature, weather description, and other useful details.
