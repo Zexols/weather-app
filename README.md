@@ -2,9 +2,6 @@
 
 # 🌤️ Weather App  
 ### A simple and stylish weather viewer ☁️
-
-![Weather App Screenshot](screenshot.png)
-
 </div>
 
 ---
